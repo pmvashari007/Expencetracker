@@ -1,0 +1,2 @@
+Category,Date,Amount
+Grand Total,, 0.0
